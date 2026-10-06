@@ -3,7 +3,7 @@
 > **ES:** Diseño UI/UX de la interfaz gráfica de un videojuego de rol, creado en Figma.
 > **EN:** UI/UX design of a role-playing game's graphical interface, created in Figma.
 
-![WarPark](images/warpark-01.png)
+![WarPark](images/img-03.png)
 
 **[▶ Ver prototipo en Figma](https://www.figma.com/design/tESNjGDR8ZTN8Ub2vjoKHf/WAR-PARK)**
 
@@ -56,3 +56,19 @@ microinteractions, and a visual hierarchy built for immersion.
 
 - `images/` — screenshots of the game screens.
 - Interactive prototype on [Figma](https://www.figma.com/design/tESNjGDR8ZTN8Ub2vjoKHf/WAR-PARK).
+
+---
+
+## Galería / Gallery
+
+![warpark 1](images/img-01.png)
+
+![warpark 2](images/img-02.png)
+
+![warpark 3](images/img-03.png)
+
+![warpark 4](images/img-04.png)
+
+![warpark 5](images/img-05.png)
+
+![warpark 6](images/img-06.png)
